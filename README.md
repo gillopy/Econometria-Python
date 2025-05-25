@@ -1,2 +1,2 @@
-# Econometr-a-Python
-Scrits de modelos econométricos, BCP
+# Econometria-Python
+Scripts de modelos econométricos del Instituto BCP.
